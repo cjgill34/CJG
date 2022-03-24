@@ -9,7 +9,7 @@
 
 </p>
 
-
+<h3 align="left">Connect with me:</h3>
 <p  align="left">
 <a  href="https://www.linkedin.com/in/cassiegill/"  target="_blank">
 <img  align="center"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"  width="40"  /></a>
